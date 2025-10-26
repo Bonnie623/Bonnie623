@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm currently learning Vide code without code experience.
+
+
 <!--
 **Bonnie623/Bonnie623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
